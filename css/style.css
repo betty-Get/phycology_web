@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.brand_name{
+    float:left;
+    font-size: 50px;
+    color: black;
+    font-style: oblique;
+    text-decoration: none;
+    font-family: 'Satisfy', cursive;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+.nav-link{
+     float:right;
+    margin-top: 40px;
+    margin-right: 100px;
+    color: black;
+}
+.nav{
+    background-color: rgb(250, 229, 115);
+   
+}
+.main{
+    margin-top: 100px; 
+    margin-left: 100px; 
+    margin-right: 100px;
+    background-color: white;
+}
+.main h1{
+    font-size: 70px;
+    font-weight: 500;
+    position: absolute;
+    right: 5px;
+    width: 600px;
+    margin-top: 250px;
+    padding: 10px;
+    font-family: 'Satisfy', cursive;
+    color: rgb(250, 229, 115);
+}
+
+.list{
+    margin-top: 50px;
+    padding: 5px;  
+}
+.list h4{
+    font-family: 'Satisfy', cursive;
+    color: rgb(250, 229, 115);
+    font-size: 60px;  
+    text-align: center;
+    margin-bottom:5px;
+}
+
+.col-1{
+    float: left;
+    margin-left: 200px ;
+    padding-right:30px;
+    padding-top:30px;
+}
+#col-2{
+    margin-left: 50px;
+    padding-top:30px;
+}
+#col-3{
+    float:right;
+    margin-top: -453px;
+    margin-right: 200px;
+}
+#col-4{
+    margin:10px 0px 100px 530px;
+    
+}
+#d2{
+    max-width: 300px;
+    height: 350px; 
+}
+button{
+    background-color: black;
+    color: brown;
+    border-color: rgb(250, 229, 115);
+    padding: 6px;
+    font-size: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(250, 229, 115);
+}
+.footer{
+    padding: 70px; 
+    font-size: 30px;   
+}
